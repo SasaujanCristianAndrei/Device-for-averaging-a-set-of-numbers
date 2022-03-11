@@ -1,0 +1,20 @@
+elbread.dll ver. 1.0.5.365 Wed May 19 16:34:01 2021
+
+
+-------------------------------------------------------
+Entity                   | Architecture   | Library  
+-------------------------------------------------------
+medie_4_nr               | secventa_medie | Proiect_PSN
+sumator_numere_8_biti    | sumator        | proiect_psn
+sumator_numere_9_biti    | sumator9       | proiect_psn
+sumator_numere_nou_biti  | sumator_nou    | proiect_psn
+-------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

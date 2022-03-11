@@ -1,0 +1,13 @@
+3196
+~E 1 "./src/sum_9_biti.vhd" 6 sumator_numere_9_biti
+~A 1 "./src/sum_9_biti.vhd" 12 sumator9
+~E 1 "./src/squarewave.vhd" 5 numarator
+~A 1 "./src/squarewave.vhd" 15 arhitectura
+~E 1 "./src/medie.vhd" 6 medie_4_nr
+~A 1 "./src/medie.vhd" 18 secventa_medie
+~E 1 "./src/sum_8_biti.vhd" 7 sumator_numere_8_biti
+~A 1 "./src/sum_8_biti.vhd" 13 sumator
+~E 1 "./src/sumator_cmd_6_digit.vhd" 6 sumator_numere_nou_biti
+~A 1 "./src/sumator_cmd_6_digit.vhd" 13 sumator_nou
+~E 1 "./src/squarewave.vhd" 5 wave
+~A 1 "./src/squarewave.vhd" 15 arhitectura

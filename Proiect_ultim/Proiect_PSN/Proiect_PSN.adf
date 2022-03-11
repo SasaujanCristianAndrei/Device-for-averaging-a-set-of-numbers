@@ -1,0 +1,48 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Proiect_PSN
+
+[Library]
+Proiect_PSN=.\Proiect_PSN.lib
+
+[$LibMap$]
+Proiect_PSN=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=medie_4_nr|secventa_medie|0      
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/sum_8_biti.vhd=-1
+/sum_9_biti.vhd=-1
+/medie.vhd=-1
+/squarewave.vhd=-1
+/sumator_cmd_6_digit.vhd=-1
+
+[Files.Data]
+.\src\sum_8_biti.vhd=VHDL Source Code
+.\src\sum_9_biti.vhd=VHDL Source Code
+.\src\medie.vhd=VHDL Source Code
+.\src\squarewave.vhd=VHDL Source Code
+.\src\sumator_cmd_6_digit.vhd=VHDL Source Code
+

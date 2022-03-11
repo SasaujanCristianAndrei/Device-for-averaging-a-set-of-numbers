@@ -1,0 +1,44 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 CMD1
+$IN 5 1 CMD2
+$IN 9 1 CMD3
+$INOUT +4 1 CLK
+I 2 "a#28#std_logic_vector(7 downto 0)1 ricd7 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 49 2 8 NR1
+$SC 17-45/4
+$BUS IN 82 2 8 NR2
+$SC 50-78/4
+$BUS IN +37 2 8 NR3
+$SC 83-+28/4
+$BUS IN +37 2 8 NR4
+$SC 116-+28/4
+$BUS OUT +37 2 8 MED
+$SC 149-+28/4
+I 3 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT +21 3 4 iesire
+$SC 182-+12/4
+$BUS S +37 2 8 REGISTRU1
+$SC 199-+28/4
+$BUS S +37 2 8 8 0 "2"
+$SC 232-+28/4
+$BUS S +37 2 8 8 0 "3"
+$SC 265-+28/4
+$BUS S +37 2 8 8 0 "4"
+$SC 298-+28/4
+I 4 "a#28#std_logic_vector(8 downto 0)1 ricd8 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S +41 4 9 SUM1
+$SC 331-+32/4
+$BUS S +41 4 9 SUM2
+$SC 368-+32/4
+I 5 "a#28#std_logic_vector(9 downto 0)1 ricd9 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S +45 5 10 SUM3
+$SC 405-+36/4
+$BUS S +21 3 4 MEDIE1
+$SC 446-+12/4
+$BUS S +21 3 4 5 0 "2"
+$SC 463-+12/4
+$BUS S +21 3 4 NEW_CLK
+$SC 480-+12/4
+$ENDWAVE

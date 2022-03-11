@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+proiect_psn=.\Proiect_PSN\Proiect_PSN.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+proiect_psn=1
